@@ -13,6 +13,7 @@ def create_project_hash
     projects[project] = {}
   end
 
+  #return hash
   projects
 
 end
